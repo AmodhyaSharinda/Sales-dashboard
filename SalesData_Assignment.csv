@@ -1,0 +1,201 @@
+Order ID,Date,Product,Category,Region,Quantity,Unit Price,Total Price
+1001,2024-01-01,Headphones D,Accessories,South,4,300,1200
+1002,2024-01-02,Smartwatch E,Accessories,East,5,50,250
+1003,2024-01-03,,Accessories,North,1,50,50
+1004,2024-01-04,,,West,3,1200,3600
+1005,2024-01-05,Smartwatch E,,East,4,1200,4800
+1006,2024-01-06,Laptop B,Electronics,East,1,150,150
+1007,2024-01-07,Tablet C,Electronics,West,4,300,1200
+1008,2024-01-08,Tablet C,,South,4,300,1200
+1009,2024-01-09,Tablet C,Accessories,East,3,500,1500
+1010,2024-01-10,Smartwatch E,Electronics,South,2,150,300
+1011,2024-01-11,Headphones D,,North,5,150,750
+1012,2024-01-12,Tablet C,,South,5,150,750
+1013,2024-01-13,Smartwatch E,,North,3,150,450
+1014,2024-01-14,Laptop B,Accessories,South,4,300,1200
+1015,2024-01-15,Headphones D,,East,1,300,300
+1016,2024-01-16,,,East,4,150,600
+1017,2024-01-17,Headphones D,,North,3,500,1500
+1018,2024-01-18,Smartwatch E,,West,5,50,250
+1019,2024-01-19,,Electronics,North,4,50,200
+1020,2024-01-20,Headphones D,Electronics,North,5,500,2500
+1021,2024-01-21,Laptop B,,South,1,150,150
+1022,2024-01-22,Smartwatch E,Accessories,South,5,300,1500
+1023,2024-01-23,Headphones D,Electronics,North,5,50,250
+1024,2024-01-24,Smartphone A,,East,2,1200,2400
+1025,2024-01-25,Smartphone A,Electronics,South,2,1200,2400
+1026,2024-01-26,Tablet C,Electronics,West,2,500,1000
+1027,2024-01-27,Tablet C,Accessories,South,5,150,750
+1028,2024-01-28,Laptop B,,South,3,50,150
+1029,2024-01-29,Headphones D,,West,5,150,750
+1030,2024-01-30,Headphones D,Accessories,North,3,50,150
+1031,2024-01-31,Tablet C,Accessories,West,3,500,1500
+1032,2024-02-01,Headphones D,,North,2,500,1000
+1033,2024-02-02,Headphones D,,North,4,1200,4800
+1034,2024-02-03,Smartphone A,Accessories,North,1,150,150
+1035,2024-02-04,Tablet C,Electronics,West,2,1200,2400
+1036,2024-02-05,Smartwatch E,Electronics,North,2,150,300
+1037,2024-02-06,Tablet C,Accessories,East,4,1200,4800
+1038,2024-02-07,Smartwatch E,Electronics,West,1,300,300
+1039,2024-02-08,Smartphone A,Accessories,East,5,300,1500
+1040,2024-02-09,Laptop B,Electronics,North,5,300,1500
+1041,2024-02-10,Headphones D,Electronics,South,2,300,600
+1042,2024-02-11,Smartphone A,,North,1,50,50
+1043,2024-02-12,Headphones D,,East,2,300,600
+1044,2024-02-13,Laptop B,Electronics,East,3,500,1500
+1045,2024-02-14,Laptop B,Electronics,West,2,500,1000
+1046,2024-02-15,Smartphone A,,South,2,50,100
+1047,2024-02-16,Laptop B,,West,5,300,1500
+1048,2024-02-17,,,East,5,300,1500
+1049,2024-02-18,Laptop B,Accessories,North,5,300,1500
+1050,2024-02-19,,Electronics,South,3,1200,3600
+1051,2024-02-20,Headphones D,,North,5,150,750
+1052,2024-02-21,Headphones D,Electronics,North,1,1200,1200
+1053,2024-02-22,Headphones D,Accessories,South,4,150,600
+1054,2024-02-23,Smartwatch E,Accessories,West,1,300,300
+1055,2024-02-24,Tablet C,,North,1,300,300
+1056,2024-02-25,Smartphone A,Accessories,East,5,1200,6000
+1057,2024-02-26,Headphones D,Electronics,North,4,1200,4800
+1058,2024-02-27,,,South,4,150,600
+1059,2024-02-28,Headphones D,Electronics,South,4,500,2000
+1060,2024-02-29,Laptop B,Electronics,South,3,150,450
+1061,2024-03-01,,Accessories,West,5,1200,6000
+1062,2024-03-02,Headphones D,Accessories,North,4,1200,4800
+1063,2024-03-03,Smartwatch E,Accessories,West,3,50,150
+1064,2024-03-04,Laptop B,Accessories,West,2,1200,2400
+1065,2024-03-05,Laptop B,Accessories,South,2,50,100
+1066,2024-03-06,Headphones D,,South,3,500,1500
+1067,2024-03-07,Laptop B,Electronics,West,3,150,450
+1068,2024-03-08,Laptop B,Electronics,North,5,150,750
+1069,2024-03-09,Headphones D,Electronics,East,5,50,250
+1070,2024-03-10,,Electronics,West,2,150,300
+1071,2024-03-11,Smartphone A,Accessories,North,4,1200,4800
+1072,2024-03-12,Smartwatch E,Electronics,South,2,300,600
+1073,2024-03-13,Smartwatch E,,South,4,50,200
+1074,2024-03-14,Laptop B,,North,4,150,600
+1075,2024-03-15,Smartwatch E,Electronics,East,5,50,250
+1076,2024-03-16,Laptop B,Electronics,South,1,50,50
+1077,2024-03-17,Smartphone A,,South,1,300,300
+1078,2024-03-18,Headphones D,,South,3,1200,3600
+1079,2024-03-19,Headphones D,Accessories,North,5,50,250
+1080,2024-03-20,Headphones D,,West,4,150,600
+1081,2024-03-21,,Accessories,South,1,500,500
+1082,2024-03-22,Smartphone A,Accessories,West,4,50,200
+1083,2024-03-23,Smartwatch E,Accessories,East,1,50,50
+1084,2024-03-24,Smartwatch E,Accessories,South,1,300,300
+1085,2024-03-25,Smartphone A,Accessories,South,1,1200,1200
+1086,2024-03-26,Smartphone A,Electronics,East,5,500,2500
+1087,2024-03-27,Smartphone A,,South,2,150,300
+1088,2024-03-28,Smartphone A,Accessories,West,4,500,2000
+1089,2024-03-29,Headphones D,,North,5,150,750
+1090,2024-03-30,Tablet C,,West,5,1200,6000
+1091,2024-03-31,Tablet C,Accessories,North,5,150,750
+1092,2024-04-01,,Electronics,North,5,300,1500
+1093,2024-04-02,Tablet C,Accessories,West,5,300,1500
+1094,2024-04-03,Tablet C,Electronics,West,3,300,900
+1095,2024-04-04,Smartphone A,,West,4,300,1200
+1096,2024-04-05,Tablet C,Electronics,West,5,500,2500
+1097,2024-04-06,Smartwatch E,Electronics,East,4,1200,4800
+1098,2024-04-07,Laptop B,Electronics,South,3,150,450
+1099,2024-04-08,Laptop B,,North,3,150,450
+1100,2024-04-09,,,West,4,300,1200
+1101,2024-04-10,,Electronics,West,1,300,300
+1102,2024-04-11,,Electronics,West,2,50,100
+1103,2024-04-12,,Accessories,East,1,1200,1200
+1104,2024-04-13,Laptop B,Electronics,West,1,500,500
+1105,2024-04-14,Smartphone A,Accessories,West,1,150,150
+1106,2024-04-15,Smartwatch E,Electronics,West,5,50,250
+1107,2024-04-16,Tablet C,Accessories,South,3,50,150
+1108,2024-04-17,Headphones D,,East,1,150,150
+1109,2024-04-18,Tablet C,Electronics,West,3,500,1500
+1110,2024-04-19,Tablet C,Electronics,North,4,50,200
+1111,2024-04-20,Smartphone A,Electronics,North,2,50,100
+1112,2024-04-21,,Electronics,North,4,1200,4800
+1113,2024-04-22,Smartwatch E,Accessories,East,4,500,2000
+1114,2024-04-23,Tablet C,Electronics,East,5,50,250
+1115,2024-04-24,Smartphone A,,North,2,500,1000
+1116,2024-04-25,Smartwatch E,,West,4,150,600
+1117,2024-04-26,Laptop B,Electronics,East,4,300,1200
+1118,2024-04-27,Tablet C,,North,2,50,100
+1119,2024-04-28,Smartphone A,Electronics,North,2,1200,2400
+1120,2024-04-29,Laptop B,Electronics,West,4,150,600
+1121,2024-04-30,,,South,2,500,1000
+1122,2024-05-01,Headphones D,Electronics,East,4,150,600
+1123,2024-05-02,Smartwatch E,,West,4,50,200
+1124,2024-05-03,Tablet C,Accessories,North,5,500,2500
+1125,2024-05-04,Smartphone A,Electronics,North,1,300,300
+1126,2024-05-05,Headphones D,Accessories,West,4,150,600
+1127,2024-05-06,Smartwatch E,,East,3,50,150
+1128,2024-05-07,Headphones D,Accessories,South,1,1200,1200
+1129,2024-05-08,Smartwatch E,Accessories,South,1,500,500
+1130,2024-05-09,Smartwatch E,,North,1,150,150
+1131,2024-05-10,Tablet C,Accessories,East,5,150,750
+1132,2024-05-11,Smartwatch E,Accessories,South,4,300,1200
+1133,2024-05-12,Headphones D,,East,5,300,1500
+1134,2024-05-13,Smartwatch E,Accessories,East,4,1200,4800
+1135,2024-05-14,Tablet C,,North,5,1200,6000
+1136,2024-05-15,Tablet C,Accessories,South,5,50,250
+1137,2024-05-16,Headphones D,,West,3,50,150
+1138,2024-05-17,Laptop B,,North,5,1200,6000
+1139,2024-05-18,Laptop B,Accessories,South,2,1200,2400
+1140,2024-05-19,Smartwatch E,Accessories,South,3,500,1500
+1141,2024-05-20,Smartphone A,Accessories,South,5,300,1500
+1142,2024-05-21,Smartwatch E,Electronics,South,1,50,50
+1143,2024-05-22,Headphones D,Electronics,South,2,300,600
+1144,2024-05-23,Headphones D,Electronics,East,2,300,600
+1145,2024-05-24,Headphones D,,North,2,1200,2400
+1146,2024-05-25,Headphones D,Accessories,East,3,500,1500
+1147,2024-05-26,Headphones D,,West,5,150,750
+1148,2024-05-27,Tablet C,Electronics,South,5,500,2500
+1149,2024-05-28,Laptop B,Accessories,North,1,500,500
+1150,2024-05-29,Headphones D,,South,1,300,300
+1151,2024-05-30,Smartphone A,Accessories,North,2,500,1000
+1152,2024-05-31,Smartphone A,,East,1,50,50
+1153,2024-06-01,Smartphone A,Accessories,North,3,300,900
+1154,2024-06-02,Smartphone A,Electronics,West,5,50,250
+1155,2024-06-03,Tablet C,Electronics,West,2,150,300
+1156,2024-06-04,Smartphone A,Accessories,North,1,300,300
+1157,2024-06-05,Headphones D,,North,3,150,450
+1158,2024-06-06,,Electronics,North,3,300,900
+1159,2024-06-07,Smartphone A,Electronics,North,1,1200,1200
+1160,2024-06-08,Tablet C,Electronics,West,5,500,2500
+1161,2024-06-09,Tablet C,Accessories,South,1,1200,1200
+1162,2024-06-10,Smartphone A,Accessories,North,2,150,300
+1163,2024-06-11,Smartwatch E,,North,1,500,500
+1164,2024-06-12,Smartphone A,,West,3,300,900
+1165,2024-06-13,Tablet C,,West,1,500,500
+1166,2024-06-14,Laptop B,Accessories,East,5,50,250
+1167,2024-06-15,Headphones D,Accessories,North,4,500,2000
+1168,2024-06-16,Tablet C,,East,1,50,50
+1169,2024-06-17,Smartphone A,,West,5,500,2500
+1170,2024-06-18,Headphones D,Accessories,West,5,50,250
+1171,2024-06-19,Smartphone A,,South,3,150,450
+1172,2024-06-20,Smartphone A,Electronics,North,5,1200,6000
+1173,2024-06-21,Laptop B,Accessories,East,5,300,1500
+1174,2024-06-22,Headphones D,,West,5,500,2500
+1175,2024-06-23,Headphones D,Accessories,West,5,1200,6000
+1176,2024-06-24,Laptop B,Electronics,East,2,300,600
+1177,2024-06-25,Tablet C,Accessories,South,2,300,600
+1178,2024-06-26,Smartphone A,Accessories,West,3,50,150
+1179,2024-06-27,Smartwatch E,Accessories,North,1,150,150
+1180,2024-06-28,Smartphone A,Accessories,West,5,150,750
+1181,2024-06-29,,Electronics,North,1,1200,1200
+1182,2024-06-30,Tablet C,Accessories,East,1,150,150
+1183,2024-07-01,Smartphone A,Accessories,North,3,500,1500
+1184,2024-07-02,Laptop B,,East,5,150,750
+1185,2024-07-03,Laptop B,Accessories,North,5,1200,6000
+1186,2024-07-04,Headphones D,,East,4,150,600
+1187,2024-07-05,Smartwatch E,Electronics,North,1,500,500
+1188,2024-07-06,Smartphone A,Electronics,South,1,50,50
+1189,2024-07-07,Smartphone A,Electronics,North,2,1200,2400
+1190,2024-07-08,,Electronics,North,4,50,200
+1191,2024-07-09,Laptop B,,South,2,50,100
+1192,2024-07-10,Smartwatch E,Accessories,West,2,50,100
+1193,2024-07-11,Headphones D,Electronics,West,2,300,600
+1194,2024-07-12,Laptop B,Accessories,North,3,300,900
+1195,2024-07-13,Headphones D,,South,3,50,150
+1196,2024-07-14,Tablet C,,North,2,1200,2400
+1197,2024-07-15,Tablet C,,East,4,500,2000
+1198,2024-07-16,Smartphone A,Electronics,East,1,500,500
+1199,2024-07-17,Smartwatch E,Accessories,North,4,150,600
+1200,2024-07-18,Headphones D,Accessories,West,5,1200,6000
