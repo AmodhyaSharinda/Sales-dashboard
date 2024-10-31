@@ -1,4 +1,5 @@
 # Sales-dashboard
-![image](https://github.com/user-attachments/assets/9dce2986-f5b7-4790-a667-06828e190248)
-![image](https://github.com/user-attachments/assets/bd5298e1-e76f-4567-a2c5-f70fd8a8a220)
-![image](https://github.com/user-attachments/assets/7dce3526-fcfb-4fdb-b405-f31588829a7e)
+![image](https://github.com/user-attachments/assets/dd391656-36bd-4e21-8400-3d3e538a1e23)
+![image](https://github.com/user-attachments/assets/338dcd43-8705-47c7-9b3d-8235d9fdda0c)
+![image](https://github.com/user-attachments/assets/22302685-a65f-4f46-b92c-e1f7f8b2ffad)
+![image](https://github.com/user-attachments/assets/7561b8f9-fb29-4ddd-a3fe-8f64548a047d)
